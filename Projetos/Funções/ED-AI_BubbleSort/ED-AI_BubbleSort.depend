@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666055873 source:c:\users\fatec_aluno\desktop\dsm2\ed\projetos_c\funções\ed-ai_bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+

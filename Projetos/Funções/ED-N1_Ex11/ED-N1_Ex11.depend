@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666054024 source:c:\users\fatec_aluno\desktop\dsm2\ed\projetos_c\funções\ed-n1_ex11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
