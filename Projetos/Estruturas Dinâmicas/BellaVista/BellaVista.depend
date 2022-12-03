@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669078421 source:c:\users\fatec_aluno\desktop\dsm2\ed\dsm-ed_c\projetos\estruturas dinâmicas\bellavista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
